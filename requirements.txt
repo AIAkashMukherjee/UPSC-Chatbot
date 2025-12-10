@@ -1,0 +1,8 @@
+langchain-groq
+langchain
+langchain_community
+streamlit
+PyMuPDF
+numpy
+openai
+fastapi
